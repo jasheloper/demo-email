@@ -1,3 +1,5 @@
-# Demo Email
+# Demo Promotion Email
 
-Video Demo
+The purpose of this repo is for demonstration purposes.
+
+You are welcome to use it as a starting point.
