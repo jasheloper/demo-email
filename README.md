@@ -18,4 +18,4 @@ Accompanies YouTube video cover some basics of how email development works.
 
 
 ## Resources
-- Figma Design - https://www.figma.com/file/b1u0b4Prb3Pr0CsNSKqeBr/demo-email-template?node-id=0%3A1
+- **Figma Design** - https://www.figma.com/file/b1u0b4Prb3Pr0CsNSKqeBr/demo-email-template?node-id=0%3A1
