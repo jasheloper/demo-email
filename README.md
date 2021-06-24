@@ -1,6 +1,6 @@
 # Demo Promotion Email
 
-Accompanies YouTube video.
+Accompanies YouTube video cover some basics of how email development works.
 <br />
 <br />
 
@@ -11,6 +11,8 @@ Accompanies YouTube video.
 **Video URL:** Coming Soon 
 <br />
 **Subscribe** @ https://www.youtube.com/channel/UCtNPspkT5vNq9mMcmq4Rjkw
+<br />
+**Blog/Portfolio** @ https://devjashele.tech/
 <br />
 <br />
 
