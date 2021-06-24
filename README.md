@@ -4,7 +4,13 @@ Accompanies YouTube video.
 <br />
 <br />
 
-7/22/2021 - tentative release date
+**7/22/2021** - tentative release date
+<br />
+<br />
+
+**Video URL:** Coming Soon 
+<br />
+**Subscribe** @ https://www.youtube.com/channel/UCtNPspkT5vNq9mMcmq4Rjkw
 <br />
 <br />
 
