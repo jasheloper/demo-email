@@ -6,13 +6,14 @@ Accompanies YouTube video cover some basics of how email development works.
 
 **7/22/2021** - tentative release date
 <br />
-<br />
-
 **Video URL:** Coming Soon 
 <br />
-**Subscribe** @ https://www.youtube.com/channel/UCtNPspkT5vNq9mMcmq4Rjkw
 <br />
-**Blog/Portfolio** @ https://devjashele.tech/
+
+## Links
+- **Subscribe** @ https://www.youtube.com/channel/UCtNPspkT5vNq9mMcmq4Rjkw
+<br />
+- **Blog/Portfolio** @ https://devjashele.tech/
 <br />
 <br />
 
