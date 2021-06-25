@@ -4,7 +4,7 @@ Accompanies YouTube video cover some basics of how email development works.
 <br />
 <br />
 
-**7/22/2021** - tentative release date
+** / 7/22/2021** - tentative release date
 <br />
 **Video URL:** Coming Soon 
 <br />
