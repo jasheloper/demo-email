@@ -2,7 +2,6 @@
 
 In this video, I discuss how email development works and what I do in my current role.  
 <br />
-<br />
 
 **Release Date** - 7/22/2021 @ 4:30pm MST
 <br />
