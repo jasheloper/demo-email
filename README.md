@@ -5,7 +5,7 @@ In this video, I discuss how email development works and what I do in my current
 
 **Release Date** - 7/22/2021 @ 4:30pm MST
 <br />
-**Video URL:** TBA
+**Video URL:** https://www.youtube.com/watch?v=Ja0kNxFS3m4
 <br />
 <br />
 
